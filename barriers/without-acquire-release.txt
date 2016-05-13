@@ -1,0 +1,3 @@
+Futex, 2 threads : 5960
+Futex, 4 threads : 5225
+Futex, 8 threads : 5267

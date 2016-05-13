@@ -1,0 +1,2 @@
+with ping pong : 5830
+without ping pong : 2714

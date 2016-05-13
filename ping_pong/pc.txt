@@ -1,0 +1,3 @@
+machdep.cpu.cache.linesize: 64
+machdep.cpu.cache.L2_associativity: 12
+machdep.cpu.cache.size: 3072
